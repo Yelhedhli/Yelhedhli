@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Yassine! 👋
 
-<!--
-**Yelhedhli/Yelhedhli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 Currently Studying at the University of Waterloo
 
-Here are some ideas to get you started:
+🏛️ Previously @PointClickCare @Ford @BlackBerry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 Working on NearbyEats, an app to help foster the local food scene in Waterloo
+
+🧠 Currently learning Go for server side development
+
+😎 I always push straight to master 
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-elhedhli-553ba2211/) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassine.elhedhli@uwaterloo.ca) 
